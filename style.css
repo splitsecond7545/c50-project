@@ -1,0 +1,22 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: white;
+}
+
+body{
+    background-color: white;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.origami {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
